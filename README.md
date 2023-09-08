@@ -8,7 +8,7 @@
 
 ## General info
 * It's a simple Json search API. 
-* Rspec is also developed for test cases.
+* Rspec is also developed for test cases | run rspec spec/requests/search_spec.rb
 * To test this api install Postman.
 * There is two method search and api_search
 * for search - http://localhost:3000/search?field=full_name&term=James
